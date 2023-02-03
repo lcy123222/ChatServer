@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/liuchenyang/Desktop/c/src/server/chatserver.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/liuchenyang/Desktop/c/src/server/chatservice.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/liuchenyang/Desktop/c/src/server/main.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/main.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/liuchenyang/Desktop/c/src/server/db/db.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/liuchenyang/Desktop/c/src/server/model/friendmodel.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/liuchenyang/Desktop/c/src/server/model/groupmodel.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/model/offinemessagemodel.cpp.o -c /home/liuchenyang/Desktop/c/src/server/model/offinemessagemodel.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/model/offinemessagemodel.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/liuchenyang/Desktop/c/src/server/model/usermodel.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/server",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/liuchenyang/Desktop/c/src/server/redis/redis.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/liuchenyang/Desktop/c/build/src/client",
+  "command": "/usr/bin/g++   -I/home/liuchenyang/Desktop/c/include -I/home/liuchenyang/Desktop/c/include/server -I/home/liuchenyang/Desktop/c/include/server/db -I/home/liuchenyang/Desktop/c/include/server/model -I/home/liuchenyang/Desktop/c/include/server/redis -I/home/liuchenyang/Desktop/c/thirdparty  -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/liuchenyang/Desktop/c/src/client/main.cpp",
+  "file": "/home/liuchenyang/Desktop/c/src/client/main.cpp"
+}
+]

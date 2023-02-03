@@ -1,0 +1,10 @@
+/home/liuchenyang/Desktop/c/build/CMakeFiles/rebuild_cache.dir
+/home/liuchenyang/Desktop/c/build/CMakeFiles/edit_cache.dir
+/home/liuchenyang/Desktop/c/build/src/CMakeFiles/rebuild_cache.dir
+/home/liuchenyang/Desktop/c/build/src/CMakeFiles/edit_cache.dir
+/home/liuchenyang/Desktop/c/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/liuchenyang/Desktop/c/build/src/server/CMakeFiles/ChatServer.dir
+/home/liuchenyang/Desktop/c/build/src/server/CMakeFiles/edit_cache.dir
+/home/liuchenyang/Desktop/c/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/liuchenyang/Desktop/c/build/src/client/CMakeFiles/ChatClient.dir
+/home/liuchenyang/Desktop/c/build/src/client/CMakeFiles/edit_cache.dir
